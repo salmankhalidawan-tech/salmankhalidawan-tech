@@ -67,4 +67,4 @@ Hi, I'm Salman Khalid Awan 👋
 
 ### 📫 Let's Connect
 Open to **Data Engineering & Data Science internships**.
-Feel free to reach out at **salmanawanlgu@gmail.com**
+Feel free to reach out at **awan.salman475@gmail.com**
