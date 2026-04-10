@@ -16,7 +16,7 @@ Hi, I'm Salman Khalid Awan 👋
 
 
 
-  📧 salmanawanlgu@gmail.com ·
+  📧 awan.salman475@gmail.com
   💼 https://www.linkedin.com/in/salmankhalidd/
 
 
