@@ -61,7 +61,7 @@ Hi, I'm Salman Khalid Awan 👋
 
 ### 📊 GitHub Stats
 
-![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmankhalidawan-tech&show_icons=true&theme=default&hide_border=true)
 
 ---
 
