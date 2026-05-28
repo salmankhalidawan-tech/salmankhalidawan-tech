@@ -116,9 +116,9 @@ A full-stack e-commerce platform for managing woodcraft products, orders, and us
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmankhalidawan-tech&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmankhalidawan-tech&layout=compact&hide_border=true&theme=default" height="160"/>
+  <img src="https://github-readme-stats-iota-murex-54.vercel.app/api?username=salmankhalidawan-tech&show_icons=true&theme=default&hide_border=true&count_private=true" height="160"/>
+
+  <img src="https://github-readme-stats-iota-murex-54.vercel.app/api/top-langs/?username=salmankhalidawan-tech&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
 ---
 
