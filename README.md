@@ -120,7 +120,6 @@ A full-stack e-commerce platform for managing woodcraft products, orders, and us
 
   <img src="https://github-readme-stats-iota-murex-54.vercel.app/api/top-langs/?username=salmankhalidawan-tech&layout=compact&hide_border=true&theme=default" height="160"/>
 </p>
----
 
 ## Let's Connect
 
