@@ -2,7 +2,7 @@
 
 # Hi, I'm Salman 👋
 
-### AI Automation Engineer in the making — I turn manual workflows into autonomous systems
+### AI Automation Engineer in the making - I turn manual workflows into autonomous systems
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Building+multi-agent+AI+systems...;Automating+workflows+with+n8n+%2B+LLMs...;Researching+fairness+in+generative+AI...;Selected+for+IEEE+IES+GenAI+Challenge+2026" alt="Typing SVG" />
 
@@ -40,7 +40,7 @@ I'm a final-year **BSCS student** who moved from writing ML models to **orchestr
 
 My flagship research project, **GenEdge**, is a six-agent generative AI framework for bias detection that was selected from **305+ submissions** for the **IEEE IES GenAI Challenge 2026**, with a paper submitted to **IRAI 2026, Melbourne**.
 
-I care about the boundary between "AI demo" and "AI system that actually runs unattended" — retries, conditional routing, human-in-the-loop approval, webhook events, the unglamorous plumbing that makes automation trustworthy.
+I care about the boundary between "AI demo" and "AI system that actually runs unattended" - retries, conditional routing, human-in-the-loop approval, webhook events, the unglamorous plumbing that makes automation trustworthy.
 
 ---
 
