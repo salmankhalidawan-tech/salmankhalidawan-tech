@@ -1,25 +1,17 @@
 <div align="center">
 
-```
-┌──────────────────────────┐
-│   ⚡ WEBHOOK TRIGGER       │
-│   event: "new_visitor"    │
-└─────────────┬────────────┘
-              │
-              ▼
-┌──────────────────────────┐
-│   🔍 IF: curious_about    │
-│   ("agentic systems")     │
-└──────────┬───────────────┘
-      true │
-              ▼
-┌──────────────────────────┐
-│   📄 Set: load_profile    │
-│   node_id: salman-002     │
-└──────────┬───────────────┘
-              │
-              ▼
-       keep scrolling ↓
+```mermaid
+flowchart TD
+    A["⚡ Webhook Trigger\nevent: new_visitor"] --> B{"🔍 IF\ncurious_about('agentic systems')"}
+    B -- true --> C["📄 Set: load_profile\nnode_id: salman-002"]
+    B -- false --> D["🚪 Exit\nsee ya!"]
+    C --> E["⬇ keep scrolling"]
+
+    style A fill:#1a1a2e,stroke:#0A66C2,stroke-width:2px,color:#fff
+    style B fill:#1a1a2e,stroke:#EA4B71,stroke-width:2px,color:#fff
+    style C fill:#1a1a2e,stroke:#0A66C2,stroke-width:2px,color:#fff
+    style D fill:#1a1a2e,stroke:#555,stroke-width:1px,color:#aaa
+    style E fill:none,stroke:none,color:#888
 ```
 
 # workflow: salman_khalid_awan.json
